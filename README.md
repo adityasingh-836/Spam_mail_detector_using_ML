@@ -12,6 +12,9 @@ The model in this project is designed to detect various types of spam emails, ma
 - Accurate detection spam emails.
 
 Full Name: Aditya Singh
+
 Email ID: adityarocks8368990374@gmail.com
+
 College Name: Chandigarh University
+
 Selected Skill Track: AI & Machine Learning
